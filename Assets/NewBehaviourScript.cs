@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour
 {
-    public Vector3 vec;
+    public Transform trans;
     // Start is called before the first frame update
     void Start()
     {
